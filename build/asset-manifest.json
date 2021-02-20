@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49e24789.chunk.css",
+    "main.js": "/static/js/main.82dc537d.chunk.js",
+    "main.js.map": "/static/js/main.82dc537d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.85487633.js",
+    "runtime-main.js.map": "/static/js/runtime-main.85487633.js.map",
+    "static/js/2.c1e7a194.chunk.js": "/static/js/2.c1e7a194.chunk.js",
+    "static/js/2.c1e7a194.chunk.js.map": "/static/js/2.c1e7a194.chunk.js.map",
+    "static/js/3.9913494e.chunk.js": "/static/js/3.9913494e.chunk.js",
+    "static/js/3.9913494e.chunk.js.map": "/static/js/3.9913494e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.49e24789.chunk.css.map": "/static/css/main.49e24789.chunk.css.map",
+    "static/js/2.c1e7a194.chunk.js.LICENSE.txt": "/static/js/2.c1e7a194.chunk.js.LICENSE.txt",
+    "static/media/account.340ef69a.svg": "/static/media/account.340ef69a.svg",
+    "static/media/calender.b713a4a3.svg": "/static/media/calender.b713a4a3.svg",
+    "static/media/courses.d3f0d579.svg": "/static/media/courses.d3f0d579.svg",
+    "static/media/dashboard.62feee33.svg": "/static/media/dashboard.62feee33.svg",
+    "static/media/messages.bd9550e0.svg": "/static/media/messages.bd9550e0.svg",
+    "static/media/notes.9c1d3575.svg": "/static/media/notes.9c1d3575.svg",
+    "static/media/password.17346190.svg": "/static/media/password.17346190.svg",
+    "static/media/setting.281eefa3.svg": "/static/media/setting.281eefa3.svg",
+    "static/media/username.1d9d62ad.svg": "/static/media/username.1d9d62ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85487633.js",
+    "static/js/2.c1e7a194.chunk.js",
+    "static/css/main.49e24789.chunk.css",
+    "static/js/main.82dc537d.chunk.js"
+  ]
+}
